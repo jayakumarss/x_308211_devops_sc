@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "hint": null,
+  "name": "DevOps Scoped",
+  "order": null,
+  "roles": "x_308211_devops_sc.user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-20 15:35:52",
+  "sys_id": "ef352660db910010343f58b3ca96199c",
+  "sys_mod_count": 0,
+  "sys_name": "DevOps Scoped",
+  "sys_package": "07356e20db910010343f58b3ca9619ca",
+  "sys_policy": null,
+  "sys_scope": "07356e20db910010343f58b3ca9619ca",
+  "sys_update_name": "sys_ui_application_ef352660db910010343f58b3ca96199c",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-20 15:35:52"
+}
