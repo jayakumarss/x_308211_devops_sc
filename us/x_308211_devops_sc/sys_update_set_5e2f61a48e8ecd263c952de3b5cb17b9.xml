@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-20 15:42:52">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="DevOps Scoped">07356e20db910010343f58b3ca9619ca</application>
+<application_name>DevOps Scoped</application_name>
+<application_scope>x_308211_devops_sc</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>DevOps Scoped - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="DevOps Scoped - 1.0.0">1ed6eaa0db910010343f58b3ca961982</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>5e2f61a48e8ecd263c952de3b5cb17b9</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-20 15:42:52</sys_created_on>
+<sys_id>1ed6eaa0db910010343f58b3ca961982</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-20 15:42:52</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="DevOps Scoped">07356e20db910010343f58b3ca9619ca</application>
+<application_name>DevOps Scoped</application_name>
+<application_scope>x_308211_devops_sc</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>DevOps Scoped - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="DevOps Scoped - 1.0.0">1ed6eaa0db910010343f58b3ca961982</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>5e2f61a48e8ecd263c952de3b5cb17b9</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-20 15:42:52</sys_created_on>
+<sys_id>1ed6eaa0db910010343f58b3ca961982</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-20 15:42:52</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+</unload>

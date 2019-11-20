@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_308211_devops_sc_devops_scoped",
+  "name": "x_308211_devops_sc_devops_scoped",
+  "operation": "create",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-20 15:35:51",
+  "sys_id": "13352660db910010343f58b3ca961901",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_devops_sc_devops_scoped",
+  "sys_package": "07356e20db910010343f58b3ca9619ca",
+  "sys_policy": null,
+  "sys_scope": "07356e20db910010343f58b3ca9619ca",
+  "sys_update_name": "sys_security_acl_13352660db910010343f58b3ca961901",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-20 15:35:51",
+  "type": "record"
+}
